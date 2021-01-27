@@ -11,6 +11,7 @@ public class Deletedata {
 	{
 		try 
 		{
+// comment for push
 			Class.forName("com.mysql.jdbc.Driver");
 			Connection con=DriverManager.getConnection("jdbc:mysql://localhost:3306/root_infotech","root","root");
 			String query="delete from student where rollno=4";
