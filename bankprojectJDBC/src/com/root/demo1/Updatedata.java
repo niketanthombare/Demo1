@@ -5,7 +5,9 @@ import java.sql.DriverManager;
 import java.sql.SQLException;
 import java.sql.Statement;
 
-public class Updatedata {
+public class Updatedata 
+{
+//updated....
 
 	public static void main(String[] args) 
 	{
